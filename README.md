@@ -11,7 +11,7 @@ One of the reasons that the shipwreck led to such loss of life was that there we
 In this notebook, we will see how to dig deep into the data and visualize it.
 
 
-desription of columns:
+description of columns:
 
 Variable	             Definition	                                                   Key
 survival 	             Survival 	                                                   0 = No, 1 = Yes
