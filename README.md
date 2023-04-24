@@ -1,2 +1,2 @@
 # assignment
-EDA_Titanic_dataset
+Visualization_On_Titanic_dataset
